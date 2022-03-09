@@ -13,6 +13,3 @@ module.exports = (user) => {
         signedKey
     }
 }
-
-
-
