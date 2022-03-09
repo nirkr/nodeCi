@@ -1,5 +1,5 @@
 # AdvancedNodeStarter
-Project for a course on Advanced Node @ Udemy
+Project for a course on Advanced Node @ Udemy - [course link](https://www.udemy.com/course/advanced-node-for-developers/)
 
 Using: `nodeJS`, `express`, `redis caching`, `passport authentication` and more! :)
 
